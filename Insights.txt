@@ -1,0 +1,13 @@
+Insights:
+
+1. Category "Flim & video" has the highest goal with "$ 263B" and a pledged amount of "$ 329M"
+2. Category "Music" has the highest success percentage which is 18% with goal "$ 138B" and a pleged amount of "$ 177M".
+3. Country "United States" has the highest success percentage which is around 81% with goal " $ 1M".
+4. The Total number of project failed is around "197611" which is around 53%.
+5. The Total number of project successful is around "133851" which is around 36%.
+6. The highest success count has been noted in the year 2014 with 21,106 successful projects.
+7. The highest failures count has been noted in the year 2015 with 44,301 failure projects.
+8. There was a upward trend in success count and failures count from the year 2008 to 2014 and downward trend thereafter.
+9. The project which has highest goal percentage with goal > $1k is "Exploding Kittens" which falls under "Game" category, with a goal percentage of 87826%.
+10. The Total number of projects are 135K out of which 134K projects were successfull.
+
