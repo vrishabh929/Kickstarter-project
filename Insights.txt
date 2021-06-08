@@ -9,5 +9,5 @@ Insights:
 7. The highest failures count has been noted in the year 2015 with 44,301 failure projects.
 8. There was a upward trend in success count and failures count from the year 2008 to 2014 and downward trend thereafter.
 9. The project which has highest goal percentage with goal > $1k is "Exploding Kittens" which falls under "Game" category, with a goal percentage of 87826%.
-10. The Total number of projects are 135K out of which 134K projects were successfull.
+10. The Total number of projects are 375K out of which 134K projects were successfull.
 
